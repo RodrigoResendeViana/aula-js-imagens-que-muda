@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to right, rgb(141, 236, 141), rgb(11, 43, 11));
+}
+
+#msg{
+    background-image: linear-gradient(to right, rgb(0, 238, 255), rgb(253, 228, 0));
+    color:rgb(255, 0, 0);
+    text-align: center;
+    background-clip: text;
+    -webkit-background-clip:text;
+    font-weight:bold;
+    font-size: 20px;
+    -webkit-text-fill-color: transparent;
+}
+
+#imagens{
+    width: 100%;
+    height: 600px;
+}
